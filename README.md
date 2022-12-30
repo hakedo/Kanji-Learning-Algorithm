@@ -10,7 +10,7 @@
 ---
 ### For Example:
 <figure>
-<img width=200 src="src/images/graphExample.png"
+<img width=200 src="src/images/graphExample.png">
 </figure>
 
 <p style="font-weight: normal">法 is consisted of 去 & 水, and 去 is consisted of 土 & 入 </p>
@@ -22,5 +22,5 @@
 ---
 ### Output Graph
 <figure>
-<img src="src/images/graph.png"
+<img src="src/images/graph.png">
 </figure>
