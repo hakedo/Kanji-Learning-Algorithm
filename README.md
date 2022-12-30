@@ -9,6 +9,9 @@
 
 ---
 ### For Example:
+<figure>
+<img width=200 src="src/images/graphExample.png"
+</figure>
 
 ### 法 is consisted of 去 & 水, 去 is consisted of 土 & 入 
 
@@ -18,3 +21,6 @@
 
 ---
 ### Output Graph
+<figure>
+<img src="src/images/graph.png"
+</figure>
