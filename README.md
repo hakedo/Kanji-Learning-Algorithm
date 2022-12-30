@@ -9,9 +9,15 @@
 
 ---
 ### For Example:
-![graph](src/images/graphExample.png)
+<figure>
+    <img width="200" src="./src/images/graphExample.png">
+</figure>
+
 ### 法 is consisted of 去 & 水, 去 is consisted of 土 & 入 
 
 ---
 ### The algorithm organizes the best learning sequence for the input set of characters. 
 ### The output is a sequence of characters in increasing order of complexity that build on top of each other.
+
+---
+### Output Graph

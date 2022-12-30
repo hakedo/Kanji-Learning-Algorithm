@@ -47,7 +47,7 @@ public class Main {
              */
             /////////////// UNCOMMENT ME 👇 ////////////////////
 
-            // generateDotFile(kanjiMap, diGraph);
+             generateDotFile(kanjiMap, diGraph);
 
             /////////////// UNCOMMENT ME ☝ ////////////////////
 
